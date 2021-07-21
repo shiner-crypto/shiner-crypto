@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @shiner-crypto             
+- 👀 I’m interested in ...              cryptocurrency statistical arbitrage
+- 🌱 I’m currently learning ...         API/WSS with Python
+- 💞️ I’m looking to collaborate on ...  
+- 📫 How to reach me ...                shiner.crypto@gmail.com
+- 📫 Discord ...                        kobekaiser#4842
